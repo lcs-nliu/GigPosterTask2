@@ -2,6 +2,7 @@
 //: The following two statements are required to make the playground run. Please do not remove.
 import Cocoa
 import PlaygroundSupport
+
 /*:
  Each image is exactly 400 pixels wide by 600 pixels tall.
  
